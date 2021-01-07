@@ -8,9 +8,12 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world!
+	<br>
+	안녕하세요
+	by client1  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P> client1! The time on the server is ${serverTime}. </P>
 </body>
 </html>
